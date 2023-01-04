@@ -12,4 +12,6 @@
 
 link demo apliaksi "http://dheagitawijaya.byethost7.com"
 link youtube "https://youtu.be/TIskOmfKBEc"
- 	 
+
+buat databasenya dm aja heheee
+@dheagitawijayaa
